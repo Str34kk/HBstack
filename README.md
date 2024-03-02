@@ -16,7 +16,7 @@ Our mission is simple: to demystify the complexities of low-level C# programming
 ```mermaid
 sequenceDiagram
     box Actor
-    Actor User
+    participant User
     end
     box Core
     participant Core
