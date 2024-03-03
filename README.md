@@ -34,7 +34,7 @@ classDiagram
     class CategorizedItem{
         +Int Id
         +String Name
-        thatsGonnaBeAnEnumYet()
+        idkIfThatsGonnaBeAnEntityYet()
     }
     class Post{
         +Int Id
