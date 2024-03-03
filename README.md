@@ -14,30 +14,7 @@ Our mission is simple: to demystify the complexities of low-level C# programming
     <summary>Diagram</summary>
 
 ```mermaid
-sequenceDiagram
-    box Actor
-    participant User
-    end
-    box Core
-    participant Core
-    end
-    box Buisness
-    participant Buisness
-    end
-    box Infra
-    participant Infra
-    end
-    box Database
-    participant Database
-    end
-    User-)Core: Gimme post
-    Core-)Buisness: Function(request)
-    Buisness-)Infra: Function(request)
-    Infra-)Database: Function(requestDB)
-    Database-)Infra: Task(responseDB)
-    Infra-)Buisness: Task(response)
-    Buisness-)Core: Task(response)
-    Core-)User: Here be dragons
+
 ```
 
 </details>
