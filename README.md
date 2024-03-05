@@ -8,17 +8,6 @@ Our mission is simple: to demystify the complexities of low-level C# programming
 
 # Development stuff
 
-## API
-
-<details>
-    <summary>Diagram</summary>
-
-```mermaid
-
-```
-
-</details>
-
 ## Database Entities
 
 <details>
