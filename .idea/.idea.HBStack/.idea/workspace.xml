@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="514d4a7e-d8f0-4584-bef1-b84cca299be1" name="Changes" comment="Update figma">
+    <list default="true" id="514d4a7e-d8f0-4584-bef1-b84cca299be1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.HBStack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HBStack/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +109,7 @@
       <workItem from="1709641973959" duration="57000" />
       <workItem from="1709643516791" duration="749000" />
       <workItem from="1709647030722" duration="608000" />
-      <workItem from="1709846702952" duration="1281000" />
+      <workItem from="1709846702952" duration="1885000" />
     </task>
     <task id="LOCAL-00001" summary="Update figma">
       <option name="closed" value="true" />
@@ -143,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709936230697</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update figma">
+      <option name="closed" value="true" />
+      <created>1709973411036</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709973411036</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
