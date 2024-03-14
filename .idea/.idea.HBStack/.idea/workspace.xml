@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="514d4a7e-d8f0-4584-bef1-b84cca299be1" name="Changes" comment="" />
+    <list default="true" id="514d4a7e-d8f0-4584-bef1-b84cca299be1" name="Changes" comment="Update figma">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HBStack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HBStack/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,6 +113,7 @@
       <workItem from="1709647030722" duration="608000" />
       <workItem from="1709846702952" duration="1885000" />
       <workItem from="1710106076646" duration="2876000" />
+      <workItem from="1710366489480" duration="946000" />
     </task>
     <task id="LOCAL-00001" summary="Update figma">
       <option name="closed" value="true" />
@@ -176,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710279753810</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update figma">
+      <option name="closed" value="true" />
+      <created>1710366781650</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710366781650</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,10 +208,10 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Update fimga" />
-    <MESSAGE value="Update figma" />
     <MESSAGE value="init Vite" />
     <MESSAGE value="imit Pinia" />
     <MESSAGE value="Define counter store" />
-    <option name="LAST_COMMIT_MESSAGE" value="Define counter store" />
+    <MESSAGE value="Update figma" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update figma" />
   </component>
 </project>
