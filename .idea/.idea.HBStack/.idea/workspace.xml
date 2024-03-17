@@ -9,9 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="514d4a7e-d8f0-4584-bef1-b84cca299be1" name="Changes" comment="Update figma">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HBStack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HBStack/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="514d4a7e-d8f0-4584-bef1-b84cca299be1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,6 +112,7 @@
       <workItem from="1709846702952" duration="1885000" />
       <workItem from="1710106076646" duration="2876000" />
       <workItem from="1710366489480" duration="946000" />
+      <workItem from="1710535233442" duration="3071000" />
     </task>
     <task id="LOCAL-00001" summary="Update figma">
       <option name="closed" value="true" />

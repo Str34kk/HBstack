@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { onBeforeUnmount, onMounted } from "vue";
-import { useResponsivenessStore } from "./ResponsivenessStore";
+import { useResponsivenessStore } from "./responsivStore";
 
 const responsivenessStore = useResponsivenessStore();
 
@@ -19,4 +19,3 @@ onBeforeUnmount(() => {
 </script>
 
 <template></template>
-./responsivenessStore
