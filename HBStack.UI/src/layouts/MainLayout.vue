@@ -22,7 +22,10 @@ const responsivenessStore = useResponsivenessStore();
     <v-col cols="4"> </v-col>
     <v-col cols="4">
       <v-row v-for="n in 13" :key="n">
-        <v-col cols="12"> category title lorem ipsum des emore asater </v-col>
+        <v-col cols="12">
+          category title im deeeply sorry for this commit, didnt have time fo
+          anything else
+        </v-col>
       </v-row>
     </v-col>
     <v-col cols="4"> </v-col>
