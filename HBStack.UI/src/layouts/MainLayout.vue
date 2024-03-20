@@ -5,7 +5,15 @@ const responsivenessStore = useResponsivenessStore();
 </script>
 
 <template>
-  <v-row> top </v-row>
+  <v-row class="mt-5">
+    <v-col cols="1" class="d-flex justify-center align-center">
+      <img src="/menu2.svg" class="menu" alt="menu" width="44" />
+    </v-col>
+    <v-col cols="10"> </v-col>
+    <v-col cols="1" class="d-flex justify-center align-center">
+      <img src="/menu1.svg" class="menu" alt="menu" width="44" />
+    </v-col>
+  </v-row>
   <v-row class="spacer"></v-row>
   <v-row>
     <v-col cols="3"> </v-col>
